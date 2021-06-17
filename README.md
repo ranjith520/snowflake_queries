@@ -1,8 +1,11 @@
+# Snowflake Queries : Resource Optimization Quries that help Snowflake users & Account Admins .
+
 ![Image](snowflake-logo-blue.png)
 
-# Snowflake_queries : Resource Optimization Quries that help Snowflake users & Account Admins .
-
-  Bunch of Snowflake Queries that help Account Admins
+Bunch of Snowflake Queries that help Account Admins
+  
+## Credits to Snowflake : 
+[❄ Snowflake Quickstarts](https://quickstarts.snowflake.com/?cat=resource+optimization)
 
 
   ##  [Billing Metrics](https://github.com/ranjith520/snowflake_queries/tree/main/Billing%20Metrics)
