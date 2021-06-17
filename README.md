@@ -2,6 +2,7 @@
 
 Bunch of Snowflake Queries that help Account Admins
 
+[Link](url) and ![Image](src)
 
   ##  Billing Metrics  
 Billing queries are responsible for identifying total costs associated with the high level functions of the Snowflake Cloud Data Platform, which includes warehouse compute, snowpipe compute, and storage costs. If costs are noticeably higher in one category versus the others, you may want to evaluate what might be causing that.
