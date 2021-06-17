@@ -1,2 +1,2 @@
-# snowflake_queries
-Bunch Of Snowflake Queries that help Admins
+# Snowflake_queries
+Bunch of Snowflake Queries that help Account Admins
