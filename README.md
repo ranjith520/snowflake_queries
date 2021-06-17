@@ -14,7 +14,7 @@ These metrics also seek to identify those queries that are consuming the most am
 The queries provided in this guide are intended to help you setup and run queries pertaining to identifying areas where poor performance might be causing excess consumption, driven by a variety of factors.
 
 
-  ##  [Setup & Configuration](https://github.com/ranjith520/snowflake_queries/tree/main)
+  ##  [Setup & Configuration](https://github.com/ranjith520/snowflake_queries/tree/main/Setup%20%26%20Configuration)
 Setup & Configuration queries provide more proactive insight into warehouses that are not utilizing key features that can prevent runaway resource and cost consumption. Leverage these key queries listed below to identify warehouses which should be re-configured to leverage the appropriate features.
 
 
